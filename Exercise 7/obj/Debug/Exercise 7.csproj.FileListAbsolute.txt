@@ -1,0 +1,6 @@
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\Exercise 7\bin\Debug\Exercise_7.exe
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\Exercise 7\bin\Debug\Exercise_7.pdb
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\Exercise 7\obj\Debug\Exercise 7.csprojAssemblyReference.cache
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\Exercise 7\obj\Debug\Exercise 7.csproj.CoreCompileInputs.cache
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\Exercise 7\obj\Debug\Exercise_7.exe
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\Exercise 7\obj\Debug\Exercise_7.pdb

@@ -1,0 +1,6 @@
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\DataType\bin\Debug\DataType.exe
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\DataType\bin\Debug\DataType.pdb
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\DataType\obj\Debug\DataType.csprojAssemblyReference.cache
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\DataType\obj\Debug\DataType.csproj.CoreCompileInputs.cache
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\DataType\obj\Debug\DataType.exe
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\DataType\obj\Debug\DataType.pdb

@@ -1,0 +1,6 @@
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\AnonTypes\bin\Debug\AnonTypes.exe
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\AnonTypes\bin\Debug\AnonTypes.pdb
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\AnonTypes\obj\Debug\AnonTypes.csprojAssemblyReference.cache
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\AnonTypes\obj\Debug\AnonTypes.csproj.CoreCompileInputs.cache
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\AnonTypes\obj\Debug\AnonTypes.exe
+C:\Users\nguyenhung\RiderProjects\Lap1_C_T2009A_NGUYENMANHHUNG\AnonTypes\obj\Debug\AnonTypes.pdb
